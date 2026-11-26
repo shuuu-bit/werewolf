@@ -1,0 +1,263 @@
+[
+  {
+    "id": "player_01",
+    "name": "シンイー",
+    "age": 21,
+    "gender": "女性",
+    "country": "中国",
+    "occupation": "大学生",
+    "heightCm": 152,
+    "appearance": "細身、細い目、黒髪センターパート、丸眼鏡、白Tシャツ、灰色カーディガン",
+    "personality": "自立心が強い、率直、現実主義、合理的",
+    "voice": "私／淡々と率直",
+    "abilities": {
+      "logic": 85,
+      "observation": 78,
+      "intuition": 61,
+      "speaking": 86,
+      "deception": 58,
+      "emotionalControl": 79,
+      "cooperation": 64,
+      "mentalStrength": 84
+    },
+    "image": "images/player_01.png",
+    "sha256": "0a82f7462670baee8938c6b2406359ac303296e80d6ea52f2a4e68495371c1a9",
+    "record": {
+      "games": 0,
+      "wins": 0,
+      "mvp": 0
+    }
+  },
+  {
+    "id": "player_02",
+    "name": "まさあき",
+    "age": 45,
+    "gender": "男性",
+    "country": "日本",
+    "occupation": "会社役員",
+    "heightCm": 174,
+    "appearance": "標準体型、黒髪ベリーショート、濃紺スーツ",
+    "personality": "責任感、論理的、冷静、慎重、誠実、指導力、公平、頑固、誇り高い、控えめ",
+    "voice": "私／丁寧",
+    "abilities": {
+      "logic": 94,
+      "observation": 89,
+      "intuition": 67,
+      "speaking": 93,
+      "deception": 72,
+      "emotionalControl": 95,
+      "cooperation": 80,
+      "mentalStrength": 92
+    },
+    "image": "images/player_02.png",
+    "sha256": "244ae570c26993c80ef5a01bd4cc86f465fd3e3abe72797fd55e97456726a270",
+    "record": {
+      "games": 0,
+      "wins": 0,
+      "mvp": 0
+    }
+  },
+  {
+    "id": "player_03",
+    "name": "リュウヤ",
+    "age": 32,
+    "gender": "男性",
+    "country": "日本",
+    "occupation": "美容師",
+    "heightCm": 178,
+    "appearance": "細身筋肉質、明るい茶髪、柄入り黒シャツ、銀アクセサリー、サングラスなし",
+    "personality": "自由奔放、観察力、社交的、自信家、成人女性に軽口、気分屋、負けず嫌い、本心を隠す",
+    "voice": "俺／軽く親しみやすい",
+    "abilities": {
+      "logic": 69,
+      "observation": 93,
+      "intuition": 90,
+      "speaking": 87,
+      "deception": 92,
+      "emotionalControl": 73,
+      "cooperation": 76,
+      "mentalStrength": 78
+    },
+    "image": "images/player_03.png",
+    "sha256": "b2bf4e07bf9f33e914bf998c82c7801fd69621be0da0051505787b56e35bf1e7",
+    "record": {
+      "games": 0,
+      "wins": 0,
+      "mvp": 0
+    }
+  },
+  {
+    "id": "player_04",
+    "name": "モリ",
+    "age": 25,
+    "gender": "男性",
+    "country": "日本",
+    "occupation": "半グレ",
+    "heightCm": 171,
+    "appearance": "細身、細い目、黒髪長め、黒パーカーのフード",
+    "personality": "好戦的、威圧的、疑り深い、仲間思い、自己利益重視、大胆、反権威、短気、洞察力、誇り高い、意外に世話好き",
+    "voice": "俺／荒っぽい",
+    "abilities": {
+      "logic": 72,
+      "observation": 91,
+      "intuition": 88,
+      "speaking": 85,
+      "deception": 83,
+      "emotionalControl": 39,
+      "cooperation": 35,
+      "mentalStrength": 90
+    },
+    "image": "images/player_04.png",
+    "sha256": "7f923ca2cbcacb47015bb98f46b2343a427a04518996fb12e32f717761ec1fe7",
+    "record": {
+      "games": 0,
+      "wins": 0,
+      "mvp": 0
+    }
+  },
+  {
+    "id": "player_05",
+    "name": "とみこ",
+    "age": 88,
+    "gender": "女性",
+    "country": "日本",
+    "occupation": "無職",
+    "heightCm": 140,
+    "appearance": "標準体型、白髪のお団子、ラベンダーカーディガン、花柄ブラウス",
+    "personality": "温厚、思いやり、受容的、協調的、忍耐強い、洞察力、謙虚、信じやすい、自己犠牲的、芯が強い",
+    "voice": "私／優しいお婆さん口調",
+    "abilities": {
+      "logic": 76,
+      "observation": 94,
+      "intuition": 92,
+      "speaking": 65,
+      "deception": 38,
+      "emotionalControl": 97,
+      "cooperation": 99,
+      "mentalStrength": 96
+    },
+    "image": "images/player_05.png",
+    "sha256": "c504b5766d6764e2f8eaaf0de8617928ac9b4cdd4fb084fc3bfb2a22b27307ef",
+    "record": {
+      "games": 0,
+      "wins": 0,
+      "mvp": 0
+    }
+  },
+  {
+    "id": "player_06",
+    "name": "ミライ",
+    "age": 15,
+    "gender": "女性",
+    "country": "日本",
+    "occupation": "中学3年生",
+    "heightCm": 160,
+    "appearance": "細身、丸顔、一重、金髪ストレート、黒とくすみピンクの地雷系",
+    "personality": "気分屋、天邪鬼、寂しがり、依存的、独特な価値観、予測不能、繊細、気まぐれ、好奇心、独占欲、ミステリアス、傷つきやすい",
+    "voice": "あたし／気だるい",
+    "abilities": {
+      "logic": 63,
+      "observation": 88,
+      "intuition": 95,
+      "speaking": 74,
+      "deception": 86,
+      "emotionalControl": 34,
+      "cooperation": 42,
+      "mentalStrength": 48
+    },
+    "image": "images/player_06.png",
+    "sha256": "8d6c2b9e6549a1824d856169124a9bffe86d243fd27bd27ed91b3150f6e4df93",
+    "record": {
+      "games": 0,
+      "wins": 0,
+      "mvp": 0
+    }
+  },
+  {
+    "id": "player_07",
+    "name": "マサル",
+    "age": 18,
+    "gender": "男性",
+    "country": "日本",
+    "occupation": "キックボクサー",
+    "heightCm": 170,
+    "appearance": "引き締まった体型、黒髪短髪、黒スポーツジャケット、白Tシャツ",
+    "personality": "硬派、寡黙、忍耐、正義感、礼儀正しい、自制、誠実、観察力、負けず嫌い、信念、不器用、頑固、謙虚",
+    "voice": "俺／礼儀正しい",
+    "abilities": {
+      "logic": 74,
+      "observation": 91,
+      "intuition": 83,
+      "speaking": 52,
+      "deception": 35,
+      "emotionalControl": 96,
+      "cooperation": 78,
+      "mentalStrength": 99
+    },
+    "image": "images/player_07.png",
+    "sha256": "c4d941792645864e0572e31afa235fcae763e7d670c870cca8c5c1ec20898664",
+    "record": {
+      "games": 0,
+      "wins": 0,
+      "mvp": 0
+    }
+  },
+  {
+    "id": "player_08",
+    "name": "まんたろう",
+    "age": 65,
+    "gender": "男性",
+    "country": "日本",
+    "occupation": "大物政治家（架空）",
+    "heightCm": 165,
+    "appearance": "肥満体型、丸顔、二重顎、黒髪横分け、黒スーツ、えんじネクタイ",
+    "personality": "支配的、狡猾、雄弁、計算高い、保身、表裏、頑固、派閥志向、冷静、疑り深い、敬意を求める",
+    "voice": "私／高圧的",
+    "abilities": {
+      "logic": 90,
+      "observation": 92,
+      "intuition": 85,
+      "speaking": 98,
+      "deception": 97,
+      "emotionalControl": 93,
+      "cooperation": 38,
+      "mentalStrength": 91
+    },
+    "image": "images/player_08.png",
+    "sha256": "bfe3717d5337635d2e363d01b2f39f482bf7bd0b1cb21f41cd1419d9f6d4ef18",
+    "record": {
+      "games": 0,
+      "wins": 0,
+      "mvp": 0
+    }
+  },
+  {
+    "id": "player_09",
+    "name": "ナオ",
+    "age": 36,
+    "gender": "女性",
+    "country": "日本",
+    "occupation": "事務職",
+    "heightCm": 162,
+    "appearance": "標準体型、茶髪ロングゆる巻き、アイボリーニット、金色イヤリング",
+    "personality": "責任感、現実的、母性的、自立心、忍耐、警戒心、共感、思いやり、率直、心配性、弱みを隠す、主張力、忠実",
+    "voice": "私／親しみやすい",
+    "abilities": {
+      "logic": 84,
+      "observation": 88,
+      "intuition": 86,
+      "speaking": 82,
+      "deception": 63,
+      "emotionalControl": 77,
+      "cooperation": 91,
+      "mentalStrength": 88
+    },
+    "image": "images/player_09.png",
+    "sha256": "2825f345254068e12303300575ac791325970085006cc1dada386a0e0756497a",
+    "record": {
+      "games": 0,
+      "wins": 0,
+      "mvp": 0
+    }
+  }
+]

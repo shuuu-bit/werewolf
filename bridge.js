@@ -1,0 +1,5 @@
+(function(root){
+function request(g, messages){const lines=messages.map((m,i)=>({index:i,speaker:m.speaker,text:m.text,locked:!!m.claim}));return JSON.stringify({protocol:'werewolf-public-v1',day:g.day,characters:g.players.map(({id,name,age,occupation,personality,voice,abilities,alive})=>({id,name,age,occupation,personality,voice,abilities,alive})),previousPublic:g.log.slice(0,-messages.length).map(({speaker,text,day})=>({speaker,text,day})),lines},null,2)}
+function validate(raw,original){let v=JSON.parse(raw.trim().replace(/^```(?:json)?\s*/i,'').replace(/\s*```$/,''));if(!Array.isArray(v)||v.length!==original.length)throw Error('発言数が一致しません');return v.map((x,i)=>{if(x.index!==i||x.speaker!==original[i].speaker||typeof x.text!=='string'||!x.text.trim()||x.text.length>500)throw Error('発言 '+(i+1)+' の形式が不正です');if(original[i].claim&&x.text!==original[i].text)throw Error('役職CO・判定の発言は変更できません');return {...original[i],text:x.text.trim()}})}
+root.WolfBridge={request,validate};if(typeof module!=='undefined')module.exports=root.WolfBridge;
+})(globalThis);
